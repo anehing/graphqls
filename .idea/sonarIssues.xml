@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/graphql-1.7.13/lib/graphql/interface_type.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/graphql-1.7.13/lib/graphql/schema.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/graphql-1.7.13/lib/graphql/schema/validation.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/graphql-1.7.13/lib/graphql/type_kinds.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Gemfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/controllers/graphql_controller.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/graphql/graphqls_schema.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/graphql/types/comment_type.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/graphql/types/post_type.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/graphql/types/query_type.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/models/post.rb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
